@@ -7,7 +7,7 @@
   <title>Kevin's page</title>
 </head>
 <body>
-  <h1>"Bienvenido mi pagina para praticar el uso de Git"</h1>
+  <h1>"Bienvenido mi pagina, en la cual estoy practicando el uso de Git"</h1>
   <br>
   <br>
   <a href="./acercade.php">Ir a Acerca de</a>
